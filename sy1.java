@@ -6,6 +6,8 @@ import java.io.*;
 import java.util.HashMap;
 public class sy1
 {
+	private int a=1;
+
 	public static Iterator<String> iterator;
 	
 	protected static int Cut(String sentences)

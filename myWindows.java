@@ -34,6 +34,7 @@ import java.awt.event.ActionEvent;
 import java.awt.SystemColor;
 
 public class myWindows {
+	private int a=1;
 
 	private JFrame frmLab;
 	private JTextField fileName;

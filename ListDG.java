@@ -8,6 +8,8 @@ import java.util.List;
 import java.util.Random;
 public class ListDG 
 {
+	private int a=1;
+
 	private String[] name;
 	private int weight[][];//权值数组
 	private int dist[][];
